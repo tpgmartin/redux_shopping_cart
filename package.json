@@ -1,0 +1,33 @@
+{
+  "name": "redux_shopping_cart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpgmartin/redux_shopping_cart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpgmartin/redux_shopping_cart/issues"
+  },
+  "homepage": "https://github.com/tpgmartin/redux_shopping_cart#readme",
+  "babel": {
+    "presets": [
+      "es2015",
+      "react"
+    ]
+  },
+  "devDependencies": {
+    "babel-core": "^6.11.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "json-loader": "^0.5.4",
+    "webpack": "^1.13.1"
+  }
+}
